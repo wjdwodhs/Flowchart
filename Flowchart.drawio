@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T12:59:53.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="QfluNMf8_tGRF4WR6rsI" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T13:00:02.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nn-UXCGoJbSIigPf1G4r" version="23.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dtlimb288gDjcLGbAKey-10" value="&lt;b&gt;상품목록조회&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="465" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="458" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dtlimb288gDjcLGbAKey-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.45;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dtlimb288gDjcLGbAKey-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
