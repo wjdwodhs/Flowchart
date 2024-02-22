@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T13:34:06.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="eJavAdWBOInhwKSZWMQy" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T13:34:25.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xfYPRiB1dDchScrmOPzp" version="23.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1969" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="dtlimb288gDjcLGbAKey-57" value="&lt;b&gt;찜한상품&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="1118" y="364.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dtlimb288gDjcLGbAKey-61" value="&lt;b&gt;찜한레시피&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="dtlimb288gDjcLGbAKey-61" value="&lt;b&gt;쿠폰&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="1118" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dtlimb288gDjcLGbAKey-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="dtlimb288gDjcLGbAKey-64" value="&lt;b&gt;신규회원쿠폰&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="1400" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dtlimb288gDjcLGbAKey-65" value="&lt;b&gt;1:1문의&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="490" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
