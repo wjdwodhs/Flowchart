@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:15:59.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CPlOYvH_o1R7WnwpgqwP" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T11:19:45.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Vxp8xHpFzHJ2PCWzQwId" version="23.1.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,7 +78,7 @@
             <mxPoint x="367" y="350" as="sourcePoint" />
             <mxPoint x="367" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="367" y="650" />
+              <mxPoint x="367" y="700" />
               <mxPoint x="367" y="350" />
             </Array>
           </mxGeometry>
@@ -141,7 +141,7 @@
         <mxCell id="dtlimb288gDjcLGbAKey-19" value="&lt;b&gt;레시피 찜하기&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="710" y="364.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dtlimb288gDjcLGbAKey-36" value="&lt;b&gt;상품관련레시피&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
+        <mxCell id="dtlimb288gDjcLGbAKey-36" value="&lt;b&gt;상품레시피조회&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="310" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dtlimb288gDjcLGbAKey-37" value="&lt;b&gt;상품상세조회&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
@@ -231,6 +231,9 @@
         </mxCell>
         <mxCell id="9SJ7aX5gbVEahDQlY21Z-1" value="&lt;b&gt;레시피수정&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="1121" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U6VJmUd0H8VQJSBFr579-1" value="&lt;b&gt;상품문의&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="670" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
