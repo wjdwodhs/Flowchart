@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T01:24:54.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="H49x0BOS4Qrc3WWFeNj-" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T07:37:10.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="H834SPpnUEWfPO5h1eWp" version="23.1.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="790" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="E1q4cWO9czZsZP-2fBdB-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="125" y="200" as="sourcePoint" />
-            <mxPoint x="1460" y="200" as="targetPoint" />
+            <mxPoint x="1320" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E1q4cWO9czZsZP-2fBdB-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -184,18 +184,6 @@
         <mxCell id="dtlimb288gDjcLGbAKey-61" value="&lt;b&gt;쿠폰&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="1118" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dtlimb288gDjcLGbAKey-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dtlimb288gDjcLGbAKey-64" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1460.5" y="560" as="sourcePoint" />
-            <mxPoint x="1460" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dtlimb288gDjcLGbAKey-63" value="&lt;h3&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;이벤트&lt;/span&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="229" width="120" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="dtlimb288gDjcLGbAKey-64" value="&lt;b&gt;신규회원쿠폰&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="dtlimb288gDjcLGbAKey-65" value="&lt;b&gt;1:1문의&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="1119" y="490" width="120" height="40" as="geometry" />
         </mxCell>
@@ -235,11 +223,8 @@
             <mxPoint x="40" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BD1DtVb1XvANCM3LZKQT-1" value="&lt;b&gt;찜하기별/조회&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="BD1DtVb1XvANCM3LZKQT-1" value="&lt;b&gt;찜하기별/조회&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="837" y="364.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BD1DtVb1XvANCM3LZKQT-2" value="&lt;b&gt;공지사항&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="837" y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
