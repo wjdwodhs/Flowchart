@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T03:34:29.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dxD0n0X8ViTNjQB-rLD1" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T06:00:36.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lfe9c4magnXcLbaroYix" version="23.1.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1500" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +208,7 @@
         <mxCell id="BD1DtVb1XvANCM3LZKQT-1" value="&lt;b&gt;찜하기별/조회&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="837" y="364.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VZ29VIag_Ys2zO3usJvq-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="dtlimb288gDjcLGbAKey-65" edge="1">
+        <mxCell id="VZ29VIag_Ys2zO3usJvq-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="dtlimb288gDjcLGbAKey-65" edge="1" source="9SJ7aX5gbVEahDQlY21Z-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1180" y="760" as="sourcePoint" />
             <mxPoint x="1178" y="405" as="targetPoint" />
@@ -226,16 +226,13 @@
         <mxCell id="VZ29VIag_Ys2zO3usJvq-5" value="&lt;b&gt;주문조회&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="1121" y="610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VZ29VIag_Ys2zO3usJvq-6" value="&lt;b&gt;취소/교환/반품&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="1121" y="670" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="9SJ7aX5gbVEahDQlY21Z-1" value="&lt;b&gt;레시피수정&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="1121" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="1118" y="670" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U6VJmUd0H8VQJSBFr579-1" value="&lt;b&gt;상품문의&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="310" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3sBTQfoJFxCP-mjTy3BE-1" value="&lt;b&gt;결제&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="3sBTQfoJFxCP-mjTy3BE-1" value="&lt;b&gt;결제&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="310" y="730" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
